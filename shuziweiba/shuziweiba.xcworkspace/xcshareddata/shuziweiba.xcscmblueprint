@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "386810399CBB73649EA7DA07884A9C793D3FEF0A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "21BFA362B546E2A6DF96A3E41B545881D000C3F0" : 0,
+    "DFC0D79406743A95265E149A16F7B896221453CB" : 0,
+    "DE3AD689F64FA2743CDC5701609C3C0C43854894" : 0,
+    "46A98F35C6F8200FEA4C84450691344975A7A5B3" : 0,
+    "386810399CBB73649EA7DA07884A9C793D3FEF0A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A596A07F-580F-469C-9C9B-10E1259E7045",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "21BFA362B546E2A6DF96A3E41B545881D000C3F0" : "..\/Downloads\/HYBbijianyou",
+    "DFC0D79406743A95265E149A16F7B896221453CB" : "SZWB\/",
+    "DE3AD689F64FA2743CDC5701609C3C0C43854894" : "newYKW\/",
+    "46A98F35C6F8200FEA4C84450691344975A7A5B3" : "YKW\/",
+    "386810399CBB73649EA7DA07884A9C793D3FEF0A" : "shuZiWeiBa\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "shuziweiba",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "shuziweiba\/shuziweiba.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/nanxinlin\/BiJianYou.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21BFA362B546E2A6DF96A3E41B545881D000C3F0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kedu\/shuZiWeiBa.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "386810399CBB73649EA7DA07884A9C793D3FEF0A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/coderykw\/YKWshuziweiba.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46A98F35C6F8200FEA4C84450691344975A7A5B3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/coderykw\/shuziweiba.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE3AD689F64FA2743CDC5701609C3C0C43854894"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/coderykw\/codershuziweiba.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DFC0D79406743A95265E149A16F7B896221453CB"
+    }
+  ]
+}
